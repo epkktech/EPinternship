@@ -1,0 +1,4 @@
+KKTECH Internship Web Server Package
+Updated: 2026-11-04 09:14:32
+Weeks: 1 - 18
+System: Vocational Internship Management Portal
